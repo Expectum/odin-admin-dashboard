@@ -33,3 +33,8 @@
     align-self: center;
     height: 150px;
 }
+
+.container .nav {
+    display: grid;
+    grid-column: 2 / 3;
+}
