@@ -30,7 +30,6 @@
 }
 
 .container .header .user-name {
-    display: grid;
     align-self: center;
     height: 150px;
 }
