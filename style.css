@@ -7,5 +7,10 @@
 .container .header {
     display: grid;
     grid-column: 1 / 3;
-    grid-row: 1 / 2;
+    grid-row: 1 / 1;
+}
+
+.container .header img{
+    height: 100px;
+    width: 100px;
 }
