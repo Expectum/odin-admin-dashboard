@@ -28,3 +28,9 @@
     height: 24px;
     width: 390px;
 }
+
+.container .header .user-name {
+    display: grid;
+    align-self: center;
+    height: 150px;
+}
