@@ -8,6 +8,7 @@
     display: grid;
     grid-column: 2 / 3;
     grid-template-columns: 47px 1fr 55px 60px 1fr;
+    background-color: #FFFFFF;
 }
 
 .container .header img{
