@@ -20,3 +20,8 @@
     height: 35px;
     width: 35px;
 }
+
+.container .header input{
+    border-radius: 10px;
+    background-color: #F0F0F0;
+}
