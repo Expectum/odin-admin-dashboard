@@ -24,4 +24,7 @@
 .container .header input{
     border-radius: 10px;
     background-color: #F0F0F0;
+    border: none;
+    height: 24px;
+    width: 390px;
 }
