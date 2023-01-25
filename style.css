@@ -157,4 +157,7 @@
     display: grid;
     grid-row: 2 / 3;
     grid-column: 2 / 3;
+    width: 230px;
+    height: 0;
+    margin-left: 630px;
 }
