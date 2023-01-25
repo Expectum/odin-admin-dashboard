@@ -39,7 +39,7 @@
     display: grid;
     grid-column: 2 / 3;
     grid-row:  2 / 3;
-    grid-template-columns: 60px 1fr 1fr 1fr 1fr;
+    grid-template-columns: 60px 1fr 100px 100px 1fr;
 }
 
 .container .nav img{
