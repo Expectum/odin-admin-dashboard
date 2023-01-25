@@ -163,3 +163,6 @@
     grid-template-rows: repeat(auto-fit, minmax(120px,1fr));
 }
 
+.container .announcements .announcement {
+    height: 175px;
+}
