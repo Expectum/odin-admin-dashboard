@@ -168,6 +168,10 @@
     height: 175px;
 }
 
+.container .announcements .announcement .title {
+    font-size: 13px;
+}
+
 .container .announcements .announcement .paragraph {
     font-weight: normal;
     font-size: 11px;
