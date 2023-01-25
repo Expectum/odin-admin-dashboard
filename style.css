@@ -176,3 +176,7 @@
     font-weight: normal;
     font-size: 11px;
 }
+
+.container .announcements span {
+    width: 100px;
+}
