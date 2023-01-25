@@ -79,5 +79,8 @@
 
 .container .sidebar .logo {
     display: grid;
+    margin-top: 20px;
+    margin-left: 20px;
+    align-items: center;
     grid-template-columns: 30px 1fr;
 }
