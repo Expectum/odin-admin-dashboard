@@ -71,5 +71,6 @@
 }
 
 .container .sidebar {
+    width: 250px;
     background-color: #007FFF;
 }
