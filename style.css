@@ -39,10 +39,10 @@
     display: grid;
     grid-row: 2 / 3;
     grid-column: 2 / 3;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 60px 1fr 1fr 1fr 1fr;
 }
 
 .container .nav img{
-    width: 25px;
-    height: 25px;
+    width: 45px;
+    height: 45px;
 }
