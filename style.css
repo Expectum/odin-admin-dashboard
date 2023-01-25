@@ -90,3 +90,7 @@
     grid-template-columns: 30px 1fr;
 }
 
+.container .sidebar .logo img {
+    width: 45px;
+    height: 45px;
+}
