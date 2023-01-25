@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 1fr 4fr;
+    font-weight: bold;
 }
 
 .container .header {
@@ -62,4 +63,5 @@
     color: white;
     border-radius: 50px;
     border: none;
+    font-weight: bold;
 }
