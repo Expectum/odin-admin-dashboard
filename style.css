@@ -46,3 +46,8 @@
     width: 45px;
     height: 45px;
 }
+
+.container .nav button{
+    width: 80px;
+    height: 28px;
+}
