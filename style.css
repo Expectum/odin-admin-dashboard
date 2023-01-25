@@ -82,7 +82,7 @@
     filter: invert(100%);
 }
 
-.container .sidebar .logo {
+.container .sidebar > div {
     display: grid;
     margin-top: 20px;
     margin-left: 20px;
@@ -94,3 +94,4 @@
     width: 45px;
     height: 45px;
 }
+
