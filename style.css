@@ -8,9 +8,10 @@
 .container .header {
     display: grid;
     grid-column: 2 / 3;
-    grid-template-columns: 47px 1fr 55px 60px 1fr;
+    grid-template-columns: 47px 4fr 55px 60px 1fr;
     background-color: #FFFFFF;
     height: 55px;
+    width: 870px;
 }
 
 .container .header img{
@@ -40,9 +41,9 @@
     display: grid;
     grid-column: 2 / 3;
     grid-row:  2 / 3;
-    grid-template-columns: 60px 1fr 100px 100px 1fr;
+    grid-template-columns: 60px 5fr 100px 100px 1fr;
     box-shadow: 0px 1px gray;
-    width: 980px;
+    width: 870px;
     height: 55px;
 }
 
