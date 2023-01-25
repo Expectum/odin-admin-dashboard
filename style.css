@@ -69,3 +69,7 @@
     border: none;
     font-weight: bold;
 }
+
+.container .sidebar {
+    background-color: #007FFF;
+}
