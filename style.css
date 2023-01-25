@@ -161,11 +161,11 @@
     height: 0;
     margin-left: 630px;
     margin-top: 85px;
-    grid-template-rows: 120px;
+    grid-template-rows: 65px;
 }
 
 .container .announcements .announcement {
-    height: 175px;
+    height: 90px;
 }
 
 .container .announcements .announcement .title {
