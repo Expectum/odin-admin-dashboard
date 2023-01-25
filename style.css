@@ -167,3 +167,8 @@
 .container .announcements .announcement {
     height: 175px;
 }
+
+.container .announcements .announcement .paragraph {
+    font-weight: normal;
+    font-size: 11px;
+}
