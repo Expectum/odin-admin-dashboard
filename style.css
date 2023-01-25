@@ -97,4 +97,13 @@
 
 .container .sidebar > :not(.logo){
     margin-left: 30px;
+    margin-top: 15px;
+}
+
+.container .sidebar .home {
+    margin-top: 40px;
+}
+
+.container .sidebar .settings {
+    margin-top: 50px;
 }
