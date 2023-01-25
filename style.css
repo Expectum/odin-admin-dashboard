@@ -130,6 +130,8 @@
 
 .container .projects .project {
     width: 300px;
+    border-radius: 10px;
+    box-shadow: 1px 1px #f3f4f6;
     border-left: solid yellow;
     background-color: white;
 }
