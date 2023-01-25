@@ -126,4 +126,7 @@
 
 .container .projects .project {
     width: 300px;
+    border-left: solid yellow;
+    background-color: white;
 }
+
