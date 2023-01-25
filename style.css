@@ -140,13 +140,14 @@
 .container .projects .project .paragraph {
     font-weight: normal;
     font-size: 13px;
+    height: 70px;
+}
+
+.container .projects .project .project-images {
+    margin-left: 200px;
 }
 
 .container .projects .project img {
     height: 20px;
     width: 20px;
-}
-
-.container .projects .project .paragraph::after {
-
 }
