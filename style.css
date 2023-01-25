@@ -136,3 +136,11 @@
     background-color: white;
 }
 
+.container .projects .project .paragraph {
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.container .projects .project .paragraph::after {
+
+}
