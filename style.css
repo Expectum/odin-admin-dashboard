@@ -76,3 +76,8 @@
     height: 800px;
     background-color: #007FFF;
 }
+
+.container .sidebar .logo {
+    display: grid;
+    grid-template-columns: 30px 1fr;
+}
