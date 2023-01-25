@@ -160,4 +160,6 @@
     width: 230px;
     height: 0;
     margin-left: 630px;
+    grid-template-rows: repeat(auto-fit, minmax(120px,1fr));
 }
+
