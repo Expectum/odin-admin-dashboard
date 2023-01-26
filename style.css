@@ -164,6 +164,11 @@
     grid-template-rows: 65px 0px 65px 25px;
 }
 
+.container .announcements-title {
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+
 .container .announcements .announcement {
     margin-top: 10px;
     height: 90px;
