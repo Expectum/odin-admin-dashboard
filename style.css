@@ -203,3 +203,8 @@
 .container .announcements hr {
     position: relative;
 }
+
+.container .trending .user-project img {
+    width: 25px;
+    height: 25px;
+}
