@@ -165,9 +165,11 @@
 }
 
 .container .announcements .announcement {
+    margin-top: 10px;
     height: 90px;
     display: grid;
     grid-template-rows: 20px;
+    background-color: white;
 }
 
 .container .announcements .announcement .title {
