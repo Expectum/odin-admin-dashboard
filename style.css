@@ -204,6 +204,11 @@
     position: relative;
 }
 
+.container .trending {
+    display: grid;
+
+}
+
 .container .trending .user-project img {
     width: 25px;
     height: 25px;
