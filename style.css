@@ -170,6 +170,8 @@
     display: grid;
     grid-template-rows: 20px;
     background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px #f3f4f6;
 }
 
 .container .announcements .announcement .title {
