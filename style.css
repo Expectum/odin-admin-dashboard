@@ -219,6 +219,8 @@
     display: grid;
     grid-template-columns: 40px 1fr;
     width: 180px;
+    margin-left: 10px;
+    margin-bottom: 10px;
 }
 
 .container .trending .user-project img {
