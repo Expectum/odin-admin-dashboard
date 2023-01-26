@@ -166,6 +166,8 @@
 
 .container .announcements .announcement {
     height: 90px;
+    display: grid;
+    grid-template-rows: 20px;
 }
 
 .container .announcements .announcement .title {
