@@ -208,3 +208,7 @@
     width: 25px;
     height: 25px;
 }
+
+.container .trending .user-project .small-project-name {
+    font-weight: normal;
+}
