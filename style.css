@@ -167,6 +167,8 @@
 .container .announcements-title {
     grid-row: 2 / 3;
     grid-column: 2 / 3;
+    margin-top: 55px;
+    margin-left: 632px;
 }
 
 .container .announcements .announcement {
