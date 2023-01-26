@@ -226,7 +226,7 @@
 .container .trending .user-project {
     display: grid;
     grid-template-columns: 40px 1fr;
-    width: 180px;
+    width: 190px;
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
