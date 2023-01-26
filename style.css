@@ -210,9 +210,15 @@
     grid-row: 2 / 3;
     grid-column: 2 / 3;
     height: 0;
-    width: 300px;
+    width: 180px;
     margin-top: 410px;
     margin-left: 630px;
+}
+
+.container .trending .user-project {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    width: 180px;
 }
 
 .container .trending .user-project img {
