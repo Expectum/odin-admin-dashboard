@@ -161,7 +161,7 @@
     height: 0;
     margin-left: 630px;
     margin-top: 85px;
-    grid-template-rows: 65px;
+    grid-template-rows: 65px 0px 65px 25px;
 }
 
 .container .announcements .announcement {
@@ -177,6 +177,12 @@
     font-size: 11px;
 }
 
+.container .announcements span:first-of-type {
+    margin-top: 6px;
+}
+
 .container .announcements span {
-    width: 100px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 10px;
 }
