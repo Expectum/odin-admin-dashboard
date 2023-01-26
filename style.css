@@ -192,3 +192,7 @@
     margin-left: 50px;
     margin-top: 10px;
 }
+
+.container .announcements hr {
+    position: relative;
+}
